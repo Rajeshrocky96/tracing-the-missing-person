@@ -22,6 +22,11 @@ to locate the person from that location.
 
 *Output*
 
+![IMG_20230612_161658](https://github.com/Rajeshrocky96/tracing-the-missing-person/assets/113796822/168533fc-ec12-4241-bb23-7c776929d017)
+![IMG_20230612_161644](https://github.com/Rajeshrocky96/tracing-the-missing-person/assets/113796822/73bfd432-29d7-4504-8853-f5a65641cc31)
+![IMG_20230612_161616](https://github.com/Rajeshrocky96/tracing-the-missing-person/assets/113796822/715560c2-ce17-4883-ae79-a351e3713602)
 
+
+i have attached all documents and ppt with full details here:-https://drive.google.com/drive/folders/1UaWk7HL_NtIOAdS_3iX2kv1SJ-QEIrmu
 
 
