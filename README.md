@@ -1,8 +1,8 @@
- #Tracing-the-missing-person
+ # Tracing-the-missing-person
 Missing person finder with yolo algorithm and also track the person with the cameras
 
 
-##Abstract
+## Abstract
 
 Tracing a missing person is too difficult to undertake today. Despite the fact that social media keeps us all
 informed, it is consuming more time and also procedure that involves many pieces of paper. Furthermore, there
@@ -18,6 +18,10 @@ depicted in an image taken from a certain location is correct.. If it is, police
 to locate the person from that location.
 
 **Keywords: Face recognition,Yolo algorithm,Twilio API,Open -computer vision,Notification,Detection application.**
+
+
+*Output*
+
 
 
 
